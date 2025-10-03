@@ -1,0 +1,24 @@
+{
+  "resources": [
+    {
+      "id": 1759498565896,
+      "outsideName": "11",
+      "videoLink": "11",
+      "links": [
+        {
+          "name": "111",
+          "url": "111"
+        }
+      ]
+    }
+  ],
+  "commonLinks": [
+    {
+      "id": 1759498579749,
+      "name": "d",
+      "url": "dd",
+      "description": "dd",
+      "buttonText": "dd"
+    }
+  ]
+}
